@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers",
+      "plot": "svg",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "brownberryKeeb.stl",
       "svg": "",
       "vrml": ""
     },

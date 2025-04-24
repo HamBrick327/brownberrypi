@@ -642,7 +642,7 @@
 			(net 49 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "f885e85e-18d9-43ee-9305-bc7aca61b226")
+			(uuid "61496a33-0965-4e34-8c81-192b934d3fbc")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -660,7 +660,7 @@
 			(net 39 "Net-(D35-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "24493091-fdd3-43de-893b-ec39f7623183")
+			(uuid "b35b9e92-19ce-4ae5-8721-11ab73542cfe")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -1127,7 +1127,7 @@
 			(net 52 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e38b6028-4786-498d-83d7-436199629a94")
+			(uuid "ecd43f58-770f-483e-8007-75366e09fa15")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -1145,7 +1145,7 @@
 			(net 31 "Net-(D28-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a963bb62-8477-4cf9-876a-7e403b842254")
+			(uuid "1b862d78-7ec0-4f3a-8d6b-7062bb98f135")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -1612,7 +1612,7 @@
 			(net 50 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "29a50f12-058a-4514-a739-b09826bd7f97")
+			(uuid "9edf38e3-7fde-4c4e-b9ca-209060034c50")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -1630,7 +1630,7 @@
 			(net 40 "Net-(D36-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "07f06cdd-5d17-474b-8bbd-ae6674dbdc5f")
+			(uuid "8392b964-9347-4574-a721-7b085b11f6d8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -2097,7 +2097,7 @@
 			(net 52 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cd4eda78-a7f6-41f0-8a5d-fa866c87fbae")
+			(uuid "7fffb1b3-aab9-468a-b2e3-90cc5f3da049")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -2115,7 +2115,7 @@
 			(net 9 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "57009ec6-b2db-4a01-8a73-be8d70069bc4")
+			(uuid "73b8ed42-c18a-4461-9a2c-d321143f8264")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -2582,7 +2582,7 @@
 			(net 53 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5eab097f-afdc-4752-aeb9-73e2d46853e3")
+			(uuid "ce55d6bf-7003-4cac-8853-dd35b8b11bde")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -2600,7 +2600,7 @@
 			(net 10 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5cf39916-27f6-49ad-810e-af740f7fdcfd")
+			(uuid "9aa2e1c6-077c-4fa5-97f8-c4a1a0fc894b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -3067,7 +3067,7 @@
 			(net 53 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "94dc859f-7887-4c7a-b8d9-9fd8fe297883")
+			(uuid "b42ecfd2-8ea0-4d4b-a170-222bf65138c8")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -3085,7 +3085,7 @@
 			(net 21 "Net-(D19-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5b4f2d9e-ed3c-4ea2-9640-dc16d5f55303")
+			(uuid "4d29d0dc-5f34-44e9-98e7-bcfff64b5c20")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -3552,7 +3552,7 @@
 			(net 49 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "fa61ad49-9d43-47d0-8cc9-591901bfa938")
+			(uuid "1e98f952-8338-4473-b385-7231c6ca291f")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -3570,7 +3570,7 @@
 			(net 28 "Net-(D25-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e2843231-bf04-4650-ab11-f51e6afd46f5")
+			(uuid "fc005e2f-8e01-4eb8-aeb1-bbff664fc006")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -4037,7 +4037,7 @@
 			(net 46 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9b25cf88-4f44-4157-a3e9-2bd5855db454")
+			(uuid "498b2f92-f155-4ad6-92a6-f0681ea6636e")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -4055,7 +4055,7 @@
 			(net 3 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "388ca43a-dd09-4339-bb77-58707b360c98")
+			(uuid "c09fabe3-e992-450a-a666-d892b8925a7f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -4522,7 +4522,7 @@
 			(net 45 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "6612f25f-0940-4a87-a605-7108066a77d3")
+			(uuid "e3ccfdd4-c17c-4e96-8b22-937f01b69b2f")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -4540,7 +4540,7 @@
 			(net 24 "Net-(D21-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "33d83d82-d7a9-4d4e-8ab0-60e400007c70")
+			(uuid "eb1de2cc-63d0-46d8-923b-f00946adc6f7")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -5007,7 +5007,7 @@
 			(net 50 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5621334f-7f9c-4899-8d22-1583d1a317a4")
+			(uuid "86137343-adf3-487c-b971-af68d92eb04d")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -5025,7 +5025,7 @@
 			(net 29 "Net-(D26-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2a14b654-f06b-4a6c-a1c2-9ad13ea3bb44")
+			(uuid "63afcc61-da66-46d5-b836-6575b10aecd0")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -5492,7 +5492,7 @@
 			(net 48 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "ce76c8f4-279d-47a9-9038-2b35a5237476")
+			(uuid "795a626f-b011-4827-b742-23316536e41b")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -5510,7 +5510,7 @@
 			(net 38 "Net-(D34-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8d7e7c30-431d-4abd-97fc-8ddd01c63c4e")
+			(uuid "1abd17c7-8b10-4474-adda-8220da4af408")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -5977,7 +5977,7 @@
 			(net 54 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "7ff9c28a-ebb7-4940-9689-c3d97e3f2792")
+			(uuid "b795dd21-3983-4fd3-9567-707473728a94")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -5995,7 +5995,7 @@
 			(net 22 "Net-(D20-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1667c906-228d-4785-bbbd-0ae007dbe14b")
+			(uuid "70cfe86b-7802-414b-be67-88022d9a8683")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -6563,7 +6563,7 @@
 			(net 54 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a66ef9be-3054-4d46-b749-3997394487dc")
+			(uuid "106d95cb-1b61-4f0d-a491-7f197bf4b8d5")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -6581,7 +6581,7 @@
 			(net 11 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5cf049bf-7082-4c74-90a9-a8aa354aaf8e")
+			(uuid "9505c939-2e7f-4e11-8c67-9f70b4b9cd6e")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -7048,7 +7048,7 @@
 			(net 49 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a41e4413-b590-4fcb-9d47-ad94e6775d38")
+			(uuid "6389f569-fe6a-4571-895e-1921ce7aef58")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -7066,7 +7066,7 @@
 			(net 6 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "0623337e-06b0-4107-b0c1-cbd7fd7e1dd1")
+			(uuid "4e31111f-8e9a-4048-b55f-a41a5a68f813")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -7533,7 +7533,7 @@
 			(net 53 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "f68d68fa-02e4-42f9-8c74-1d53f772b4d8")
+			(uuid "50318197-f14a-42ba-b1aa-9b3a336f56d9")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -7551,7 +7551,7 @@
 			(net 32 "Net-(D29-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "aa40b4b1-20b8-485b-89ff-0e43ab100d0a")
+			(uuid "c437509f-a310-44af-8abc-83d02fe4c122")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -8018,7 +8018,7 @@
 			(net 51 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "f26d4b2d-111e-4b64-9fe8-1a249ff86bbc")
+			(uuid "01b69de9-6552-44db-b6dc-e28c4236dd52")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -8036,7 +8036,7 @@
 			(net 30 "Net-(D27-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "68572bb7-32ff-4c04-a36b-2712eb65d58d")
+			(uuid "77fd8680-3f58-4ab6-9139-2ef7f515882e")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -8503,7 +8503,7 @@
 			(net 48 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b2de4c4f-e5d8-4d1c-8416-5078e7af3b3e")
+			(uuid "65482be4-6d36-484e-bb0c-ab35f35aaaf2")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -8521,7 +8521,7 @@
 			(net 27 "Net-(D24-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "41726979-77f6-4fbb-9aac-bacd491462d5")
+			(uuid "672e021f-d5c6-45ef-8f73-aa7d4538e78e")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -8988,7 +8988,7 @@
 			(net 53 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c92e0198-a8f8-405b-b52f-c8bafff88a6c")
+			(uuid "a805cc4b-f1de-4fe4-adc8-eec9eb3d575e")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -9006,7 +9006,7 @@
 			(net 43 "Net-(D39-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "43b2b85c-6766-4ee9-b71b-0b40897125cb")
+			(uuid "96384884-19d7-4103-b1f1-59789cbce325")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -9473,7 +9473,7 @@
 			(net 49 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "74d15b50-75fc-4db6-99f0-117cdcddd250")
+			(uuid "60c1a850-f4b3-4041-8187-ba0ace4d4648")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -9491,7 +9491,7 @@
 			(net 17 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5b80ef33-dc9c-4b14-93f1-b8a9eddb4f05")
+			(uuid "5cd94460-941f-444b-8c04-db424d3a6d4c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -9958,7 +9958,7 @@
 			(net 50 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3eefdad1-2c09-4ee3-92a2-1bb330ee7798")
+			(uuid "c970eac3-9879-4fe3-98a4-aab18489a4c1")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -9976,7 +9976,7 @@
 			(net 18 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c825bcf9-922b-4e79-9f44-587e776a4b09")
+			(uuid "76d1bf50-e991-4dfa-8603-c8eac234100b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -10443,7 +10443,7 @@
 			(net 46 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0a61f871-bc4a-449c-a6ae-6bebf7b3a786")
+			(uuid "67ac2883-17e6-462c-a3df-d26b25c80b89")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -10461,7 +10461,7 @@
 			(net 25 "Net-(D22-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5451c175-9603-4983-a955-445e7fa51a04")
+			(uuid "69d06b0e-2ad3-41f5-961a-f22f9bcc83c3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -10928,7 +10928,7 @@
 			(net 52 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "75a9cddb-0972-4c6e-a34b-e145996eb0d5")
+			(uuid "42dd073e-0b66-43f9-9fd7-456a33646b86")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -10946,7 +10946,7 @@
 			(net 42 "Net-(D38-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2776ebd9-25e6-4ac8-896e-a3d62bcbfad2")
+			(uuid "b5f7eb10-b2a9-4570-bf79-8b8209b0b0d3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -11413,7 +11413,7 @@
 			(net 50 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "4724a98a-f96d-4c9c-9c62-1cadb38fbf7e")
+			(uuid "fb84c5bf-e3db-4c82-8e62-486890350705")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -11431,7 +11431,7 @@
 			(net 7 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "efc1396f-5021-424f-a1f0-fe10870c8f45")
+			(uuid "dd1c5e53-549f-4ca3-9caa-2d8eac00b5b6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -11898,7 +11898,7 @@
 			(net 45 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "946e721c-cd03-4a4d-ae00-4c362149bd61")
+			(uuid "1c1df418-c755-48b2-8fe3-60129238bae3")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -11916,7 +11916,7 @@
 			(net 12 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "3423c6fd-65ec-48a4-8a6a-9fc4ab7f9202")
+			(uuid "6669dc28-0ee3-42f9-9f99-69febaa1c894")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -12383,7 +12383,7 @@
 			(net 46 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cc16756c-777e-48d7-94f0-12ae83433974")
+			(uuid "6373fe46-f528-4f8b-abfc-68d500ee6bdb")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -12401,7 +12401,7 @@
 			(net 36 "Net-(D32-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b560714a-3cfa-4297-bc77-b18a125a2eae")
+			(uuid "36616afb-5ccb-478f-a710-a694da919571")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -12868,7 +12868,7 @@
 			(net 45 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "816d1571-bc78-49d9-ac32-7977222e71fa")
+			(uuid "43fb10c2-e2f7-423e-adc0-e38f67b07117")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -12886,7 +12886,7 @@
 			(net 35 "Net-(D31-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5343332d-5d6e-4a4c-90b6-48e4f94e1b45")
+			(uuid "078f491b-0dfe-478e-be44-b20e06a8c252")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -13353,7 +13353,7 @@
 			(net 51 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "899f5987-4c7f-4a4e-876c-d56448ddeaf6")
+			(uuid "dd5372b6-2e0f-438c-a419-17c6e3a3a8b7")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -13371,7 +13371,7 @@
 			(net 8 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ec817de1-5861-410e-b0be-3182afc02ddb")
+			(uuid "7e4cf722-bb48-45bb-9da6-9cf1ac70b389")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -13838,7 +13838,7 @@
 			(net 47 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "754da73c-d6de-45b3-b59d-7f5e893ff48f")
+			(uuid "9ddb2012-0620-4277-8820-075ebc6af7d6")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -13856,7 +13856,7 @@
 			(net 26 "Net-(D23-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c5b3becc-6fbe-4442-8f87-076d04e89896")
+			(uuid "5321c1b3-83e0-407b-90a6-f95ed049604b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -14323,7 +14323,7 @@
 			(net 47 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b3f48231-0af9-40a2-adff-6d4af9d021d0")
+			(uuid "fdef6301-28a8-4375-9e5c-208aa04bca39")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -14341,7 +14341,7 @@
 			(net 37 "Net-(D33-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e0515a8a-0352-4cd2-b978-5876ede89011")
+			(uuid "5492115d-5cd7-4584-a93b-bf4169a0e993")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -14808,7 +14808,7 @@
 			(net 47 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d65b49e0-2337-4400-9598-3a4b8b88ee80")
+			(uuid "8e39b1d6-8243-4586-9003-14e5d0673803")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -14826,7 +14826,7 @@
 			(net 15 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9d3373d5-f5fb-43fb-94a1-baf6e42d9022")
+			(uuid "391674a2-480b-4f93-a419-008458d9a4ff")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -15293,7 +15293,7 @@
 			(net 54 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0ae343d6-7329-4138-81c3-f6120dc3d4b3")
+			(uuid "d55c12c3-31ef-45f9-9563-0440a53a1d33")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -15311,7 +15311,7 @@
 			(net 44 "Net-(D40-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1f62e011-816e-4f8b-9253-b163349f14ac")
+			(uuid "ddf0a5bc-61e3-4bd6-81c6-5ac974094059")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -15778,7 +15778,7 @@
 			(net 51 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5683a6df-a77b-4b05-8585-9abb3d00d6e2")
+			(uuid "b435990c-bae6-42be-ae61-b7aa6ae663b7")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -15796,7 +15796,7 @@
 			(net 41 "Net-(D37-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4313c696-f5fa-4a4d-9a46-4adc74ee06e6")
+			(uuid "f96d9bf9-1025-4d36-a571-4b9deb75fc3a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -16263,7 +16263,7 @@
 			(net 48 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "92ceedf0-6f96-4aab-acdb-51979b9385ec")
+			(uuid "e2cd47cb-1602-4055-9ff3-8c766081c061")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -16281,7 +16281,7 @@
 			(net 5 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c1c5e990-dcb1-4b78-99ff-7609cd61853e")
+			(uuid "d65262e0-ed12-4629-9270-8c4ad5d0eb66")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -16748,7 +16748,7 @@
 			(net 45 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "adfb3011-c62c-42d6-afe8-15d6adbeac05")
+			(uuid "de3648b9-6924-49eb-a0b7-7821e0195b44")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -16766,7 +16766,7 @@
 			(net 2 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "6d18bf3a-eb9d-4b39-8030-24804b8fe04e")
+			(uuid "29108266-cf61-466c-adfd-e94fac264294")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -17233,7 +17233,7 @@
 			(net 51 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "2f14435d-5c14-4ffb-9fc5-5b7ff38fb7e6")
+			(uuid "43f16654-2252-4b6f-ba98-6ba3ecb03c8c")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -17251,7 +17251,7 @@
 			(net 19 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "eee6ec9e-941d-4517-9cce-70cdb19839be")
+			(uuid "63e6d10b-f8c3-489a-8ace-4bcb1190780a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -17920,7 +17920,7 @@
 			(net 47 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "abb0f0b6-0523-4ca4-9ba4-bc0dd33c6a12")
+			(uuid "00f0546d-425c-409c-a6d5-037eb3f254f0")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -17938,7 +17938,7 @@
 			(net 4 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "195fb8ad-d4e9-4b41-9b12-8cb8bf991fd4")
+			(uuid "9ac37eb9-b688-4bc3-9482-62bacd7d874f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -18405,7 +18405,7 @@
 			(net 48 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "577ed2bb-8875-4378-9b17-ecee8efae294")
+			(uuid "dfe69fec-1c72-4c38-85aa-9ad13c0cb7f0")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -18423,7 +18423,7 @@
 			(net 16 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1b073c42-1d63-473d-98c1-47b74f4783bd")
+			(uuid "1eeb49b9-907e-42db-9f73-77b0b733a810")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -19138,7 +19138,7 @@
 			(net 54 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "7f2ae913-6820-41c4-9c20-040acf2c01fd")
+			(uuid "3073bb6d-5953-4615-b9b5-6c7006f02997")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -19156,7 +19156,7 @@
 			(net 33 "Net-(D30-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ecd6719f-4fe8-4299-873b-28764ab4342f")
+			(uuid "eaa7f39f-79f8-4c21-bbd2-7a733f4c4e7d")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -19623,7 +19623,7 @@
 			(net 52 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "1c219e9b-05b8-4c4d-b119-7c821934958d")
+			(uuid "98b4eacd-9d6d-4c98-92f6-81bfc31b3b7e")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -19641,7 +19641,7 @@
 			(net 20 "Net-(D18-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "0cb88b8a-1d67-4d88-99e4-d6ffb4db04cd")
+			(uuid "6c2f9452-f63d-4739-b311-7b9aa91658d8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -20108,7 +20108,7 @@
 			(net 46 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "794e9aab-e291-49d9-b8f3-068e18244957")
+			(uuid "1181286d-564b-473b-912d-415201f561dd")
 		)
 		(pad "2" smd rect
 			(at 1.875 -3 90)
@@ -20126,7 +20126,7 @@
 			(net 14 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "41338f1c-0b75-4060-9378-8bf4ae0db17a")
+			(uuid "2b70000f-0a50-4dde-b8fd-5b8fb017abaf")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.wrl"
@@ -38985,12 +38985,28 @@
 		(uuid "fb713a30-60ef-4ac6-9059-639be842cc00")
 	)
 	(segment
+		(start 175.86434 121.889213)
+		(end 176.114342 122.139215)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 53)
+		(uuid "1370f6c6-5916-4459-b178-536794db98dd")
+	)
+	(segment
 		(start 175.86434 98.514215)
 		(end 175.86434 101.639216)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 53)
 		(uuid "39983c4b-b355-4d96-96ed-92be6c4ea1b8")
+	)
+	(segment
+		(start 175.86434 117.889217)
+		(end 175.86434 121.889213)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 53)
+		(uuid "78418301-9a12-457e-9259-1f645ac023c4")
 	)
 	(segment
 		(start 178.5 90.4)
