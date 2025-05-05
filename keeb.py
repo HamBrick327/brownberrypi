@@ -1,11 +1,22 @@
 ## TODO test this
-from machine import Pin
-from utime import sleep
+import digitalio
+import board
 
 pin = Pin("LED", Pin.OUT)
 
 rowPins = [0, 1, 2, 3]
+for pin in rowPins:
+    temp = []
+    exec(f'temp.append(digitalio.DigitialInOut(board.d{pin}))')
+    rowPins = temp
+
 colPins = [4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+
+for pin in colPins:
+    temp = []
+    exec(f'temp.append(digitalio.DigitialInOut(board.d{pin}))')
+    colPins = temp
+
 
 outputPins = []
 inputPins = []
@@ -19,9 +30,15 @@ pin_14 = Pin(14, mode=Pin.IN)
 
 ## check columns
 for pin in rowPins:
-    outputPins.append(Pin(pin, mode=Pin.OUT, value=1))
+    exec(f'''{pin}.direction = digitalio.Direction.OUTPUT
+    {pin}.value = True''')
+
 for index, pin in enumerate(colPins):
-    inputPins.append(Pin(pin, mode=Pin.IN, pull=Pin.PULL_DOWN))
+    # inputPins.append(Pin(pin, mode=Pin.IN, pull=Pin.PULL_DOWN))
+    exec(f'''{pin}.direction = digitalio.Direction.INPUT
+    {pin}.value = True''') # TODO finish this affront to mankind
+
+
     if inputPins[index].value():
         liveCols.append(pin)
 ## check rows
@@ -33,10 +50,13 @@ for index, pin in enumerate(rowPins):
         liveRows.append(pin)
 
 '''TODO add keybind logic'''
+## TODO add shift logic
 keybinds = [[['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
             ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';'],
             ['z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/'],
-            ['ctrl', 'alt', 'meta', 'shift', 'space', 'fn1', 'fn2', 'home', 'end', 'backspace']]]
+            ['ctrl', 'alt', 'meta', 'shift', 'space', 'fn1', 'fn2', 'home', 'end', 'backspace']],
+            [['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'], ## either shift layer or fn1 layer
+            ]]
 
 ''' begin pseudocode
 if fn1 is pressed:
