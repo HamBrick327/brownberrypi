@@ -55,14 +55,16 @@ for index, pin in enumerate(rowPins):
 
     if inputPins[index].value():
         liveRows.append(pin)
-'''TODO add keybind logic'''
+## TODO add keybind logic
 ## TODO add shift logic
 ## TODO add shift + fn1 logic for shift + numkeys
 keybinds = [[['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
             ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';'],
             ['z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/'],
             ['ctrl', 'alt', 'meta', 'shift', 'space', 'fn1', 'fn2', 'home', 'end', 'backspace']],
-            [['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'], ## fn1 layer
+            [['f1', 'f2', 'f3', 'f4', 'f5', 'f6', 'f7', 'f8', 'f9', 'f10'], ## fn1 layer
+             ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
+             ['', '', '', '', '', '', '', '', '', '']
             ]]
 
 ''' begin seudocode
